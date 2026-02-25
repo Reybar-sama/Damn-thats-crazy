@@ -1,6 +1,8 @@
-# Damn-thats-crazy
-Team project for machine learning in the big 26
+Collaborators:
+  1. Reyhan Baraka (Team Lead)
+  2. Valentine Kimani
+  3. Triza Mwaura
+  4. Millward Jeremy
+  5. Alvin Njuguna
 
-All group memebers must have their worked pushed here in good time preferably before lesson hours. 
-If anyone's stuck, quickly let everyone know so that we can stay on par with each other. Walai usinyamaze kama uko na shidaaa.
-Otherwise have fun in the gropu project and let's make it work.
+Objective: 
